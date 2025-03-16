@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400?text=Tweetsy+Banner" alt="Tweetsy Banner">
+  <img src="Screenshot 2025-03-15 213402.png" alt="Tweetsy Banner">
   <!-- Replace with actual banner image -->
 </p>
 <br>
